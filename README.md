@@ -84,7 +84,11 @@
   <a href="https://wa.me/+447447711749">
     <img src="https://img.shields.io/badge/Buy_License_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+    <a href="https://www.codester.com/items/61331/universal-scraper-ai-multi-user-saas-platform?ref=Eslam25">
+      <img src="https://img.shields.io/badge/Get_It_Now_on_Codester-red?style=for-the-badge&logo=rocket&logoColor=white" />
+    </a>
 </div>
+
 
 ---
 <p align="center">© 2026 Universal Scraper AI. All rights reserved.</p>
